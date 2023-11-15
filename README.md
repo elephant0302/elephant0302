@@ -1,5 +1,8 @@
 ### Language
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://imp.shields.io/badge/cplusplus-#00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+
+
 <!--
 **elephant0302/elephant0302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
