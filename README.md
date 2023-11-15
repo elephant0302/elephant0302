@@ -1,5 +1,7 @@
 ### Language
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white"/><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+### Platform
+<a href="https://numerous-mandrill-43b.notion.site/UMC-5th-9e3074d12b3c4e9091252c91b4d59b90?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=OpenJDK&logoColor=white"/>
 
 
 
