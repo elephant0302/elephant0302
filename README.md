@@ -1,3 +1,7 @@
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Junsoo's%20Github!&fontSize=37" />	
+</div>
+
 ### Language
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white"/><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 ### Platform
