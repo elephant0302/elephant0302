@@ -7,7 +7,7 @@
 </div>
 
 <div align=center>
-<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white"/><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white"/><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/><img src="https://img.shields.io/badge/nodejs-339933?style=flat&logo=cplusplus&logoColor=white"/><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=cplusplus&logoColor=white"/>
 </div>
 <br>
 <div align=center>
