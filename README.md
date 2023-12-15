@@ -30,10 +30,7 @@
 <a href="https://numerous-mandrill-43b.notion.site/UMC-5th-9e3074d12b3c4e9091252c91b4d59b90?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=OpenJDK&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" />
 </div>
-<div align=center>
-	<br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elephant0302&layout=compact&theme=radical">
-</div>
+
  
 <!--
 **elephant0302/elephant0302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
